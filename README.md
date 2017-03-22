@@ -19,7 +19,7 @@ Maven
 
 ###### Start a Wildfly Server:
 
-For Linux:   WILDFLY_HOME/bin/standalone.sh
+For Linux:   WILDFLY_HOME/bin/standalone.sh  
 For Windows: WILDFLY_HOME\bin\standalone.bat
 
 
