@@ -1,4 +1,4 @@
-# helloworld-ws: Hello World JAX-RS RESTful Web Service
+# helloworld-rs: Hello World JAX-RS RESTful Web Service
 
 
 ## Technologies
